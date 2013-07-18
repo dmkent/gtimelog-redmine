@@ -1,0 +1,5 @@
+redmine = {
+    'host': u'http://path/to/redmine',
+    'key': u'MY_REDMINE_API_KEY', 
+    'version': REDMINE_VERSION,
+}
